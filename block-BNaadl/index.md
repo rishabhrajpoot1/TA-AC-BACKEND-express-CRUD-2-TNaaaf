@@ -6,6 +6,21 @@ Q. Create an express application named as `blog` using generator.
 
   - list all articles(only title)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 - article details page
 
   - each article must have fields
